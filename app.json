@@ -1,0 +1,8 @@
+{
+  "name": "Holochat",
+  "description": "A Holochain chat app",
+  "version": "0.1.0",
+  "uuid": "00000000-0000-0000-0000-000000000000",
+  "dna_spec_version":"2.0",
+  "properties": {"test":"test"}
+}
